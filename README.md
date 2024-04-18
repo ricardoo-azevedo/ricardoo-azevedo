@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente eu estou em busca de um emprego!
-- 🌱 Estudando a linguagem java e ao mesmo tempo estudando a fundo o modelo relacional de dados junto ao PostgreSQL.
+- 🌱 Estudando a linguagem Java e ao mesmo tempo estudando a fundo o modelo relacional de dados junto ao PostgreSQL.
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 - 😄 Pronomes: Ele/Dele.
 #
