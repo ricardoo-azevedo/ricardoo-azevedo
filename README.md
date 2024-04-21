@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Atualmente estou em busca de minha primeira experiência profissional!
-
+- 🔭 Atualmente estou focado em aprender mais e conseguir bastante experiência para um futuro emprego!
 - 🌱 Estudando a linguagem Java e ao mesmo tempo estudando a fundo o modelo relacional de dados junto ao PostgreSQL.
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 - 😄 Pronomes: Ele/Dele.
