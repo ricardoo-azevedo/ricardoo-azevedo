@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estou focado em aprender mais e conseguir bastante experiência para um futuro emprego!
-- 🌱 Estou sempre focado no estudo e no desenvolvimento pessoal.
+- 🔭 Sempre explorando várias fronteiras do conhecimento para adquirir uma boa carga de experiência
+- 🌱 Focando no estudo e no desenvolvimento pessoal.
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 - 😄 Pronomes: Ele/Dele.
 #
