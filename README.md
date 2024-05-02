@@ -3,11 +3,11 @@
 
 
 - 🔭 Atualmente estou focado em aprender mais e conseguir bastante experiência para um futuro emprego!
-- 🌱 Estudando a linguagem Java e ao mesmo tempo estudando a fundo o modelo relacional de dados junto ao PostgreSQL.
+- 🌱 Estou sempre focado no estudo e no desenvolvimento pessoal.
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 - 😄 Pronomes: Ele/Dele.
 #
-Estudando:
+Atualmente estudando:
 <div>
    <img align="center" alt="Ricardo-j" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="Ricardo-ps" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
