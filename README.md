@@ -3,6 +3,7 @@
 
 
 - 🔭 Sempre explorando várias fronteiras do conhecimento para adquirir uma boa carga de experiência.
+- 🌱 Focando no estudo e no desenvolvimento pessoal.
 - 😄 Pronomes: Ele/Dele.
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 
