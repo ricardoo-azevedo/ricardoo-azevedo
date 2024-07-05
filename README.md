@@ -11,8 +11,8 @@
 Atualmente estudando:
 <div>
    <img align="center" alt="Ricardo-j" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+   <img align="center" alt="Ricardo-spring" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Ricardo-ps" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-   <img align="center" alt="Ricardo-ps" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
           
 </div>
