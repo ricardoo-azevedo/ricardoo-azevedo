@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70" alt="ricardo-postgreSQL"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="70" alt="ricardo-mySQL"  />
-  <img width="18" />
+  <img width="26" />
 </div>
 
 #
