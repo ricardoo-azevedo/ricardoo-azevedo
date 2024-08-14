@@ -14,7 +14,7 @@
    <img style="margin: 0 10px;" align="center" alt="Ricardo-java" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
    <img style="margin: 0 10px;" align="center" alt="Ricardo-flutter" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
    <img style="margin: 0 10px;" align="center" alt="Ricardo-dart" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-   <img style="margin: 0 70px;" align="center" alt="Ricardo-postgresql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+   <img style="margin: 0 90px;" align="center" alt="Ricardo-postgresql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
    <img style="margin: 0 10px;" align="center" alt="Ricardo-mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
 </div>
 #
