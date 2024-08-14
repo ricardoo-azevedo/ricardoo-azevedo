@@ -8,13 +8,14 @@
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 
 #
-Atualmente estudando:
+- 💻 Atualmente Estudando:
 <div>
-   <img align="center" alt="Ricardo-j" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
-   <img align="center" alt="Ricardo-spring" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Ricardo-ps" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-          
-          
+   <img align="center" alt="Ricardo-spring" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+   <img align="center" alt="Ricardo-java" height="100" width="110"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
+   <img align="center" alt="Ricardo-flutter" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+   <img align="center" alt="Ricardo-dart" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+   <img align="center" alt="Ricardo-postgresql" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt="Ricardo-mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
 </div>
             
           
