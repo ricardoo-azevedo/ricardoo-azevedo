@@ -8,15 +8,22 @@
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 
 #
-- 💻 Atualmente Estudando:
-<div style="display: flex; align-items: center;">
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-spring" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-java" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-flutter" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-dart" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-postgresql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-   <img style="margin: 0 10px;" align="center" alt="Ricardo-mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
+💻 Atualmente Estudando:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="70" alt="ricardo-spring"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="70" alt="ricardo-java"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="70" alt="ricardo-flutter"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="70" alt="ricardo-dart"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70" alt="ricardo-postgreSQL"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="70" alt="ricardo-mySQL"  />
+  <img width="18" />
 </div>
+
 #
 <div> 
   <a href="https://www.linkedin.com/in/ricardoo-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
