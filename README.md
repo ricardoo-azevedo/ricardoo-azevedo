@@ -8,8 +8,8 @@
 - 📫 Contate-me no email: ricardoazevedo1911@gmail.com
 
 # 
-### 💻 Atualmente Estudando:
 
+### 💻 Atualmente Estudando:
 <div align="left">
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="ricardo-spring"  />
