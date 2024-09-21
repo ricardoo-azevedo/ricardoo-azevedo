@@ -11,7 +11,7 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ricardoo-azevedo&show_icons=true&theme=dark" alt="GitHub Stats" height="200px"/>
-<img width="35" />
+<img width="30" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoo-azevedo&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
 </div>
 
@@ -21,19 +21,19 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="ricardo-spring" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="ricardo-java" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="ricardo-laravel" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="ricardo-php" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="ricardo-flutter" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="ricardo-dart" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="ricardo-postgreSQL" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="ricardo-mySQL" />
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="ricardo-godot" />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="ricardo-csharp" />
 </div>
 
