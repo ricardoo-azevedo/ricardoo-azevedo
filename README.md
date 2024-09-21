@@ -13,21 +13,21 @@
 <div align="left">
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="ricardo-spring"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="ricardo-java"  />
-  <img width="20" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="ricardo-java"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" alt="ricardo-laravel"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="60" alt="ricardo-php"  />
-  <img width="20" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="ricardo-php"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="ricardo-flutter"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="50" alt="ricardo-dart"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="ricardo-postgreSQL"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="ricardo-mySQL"  />
-  <img width="20" />
+  <img width="25" />
 </div>
 
 #
@@ -36,9 +36,9 @@
   <div align="left">
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="50" alt="ricardo-godot"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" alt="ricardo-c#"  />
-  <img width="20" />
+  <img width="25" />
   </div>
   
 # 
