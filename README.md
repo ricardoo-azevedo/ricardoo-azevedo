@@ -9,8 +9,6 @@
 
 ## 💻 Status do Github:
 
-## 💻 Status do Github:
-
 <table>
   <tr>
     <td>
