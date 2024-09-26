@@ -15,7 +15,7 @@
 </div>
 <div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoo-azevedo&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
-<img width="20" />
+<img width="19" />
 </div>
 
 ---
