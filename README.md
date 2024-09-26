@@ -9,14 +9,19 @@
 
 ## 💻 Status do Github:
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ricardoo-azevedo&show_icons=true&theme=dark" alt="GitHub Stats" height="200px"/>
-<img width="20" />
-</div>
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoo-azevedo&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
-<img width="19" />
-</div>
+## 💻 Status do Github:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ricardoo-azevedo&show_icons=true&theme=dark" alt="GitHub Stats" height="200px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoo-azevedo&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
