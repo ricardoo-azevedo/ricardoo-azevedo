@@ -20,7 +20,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 💻 Focado em:
