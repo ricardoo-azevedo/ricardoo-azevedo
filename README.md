@@ -44,16 +44,6 @@
 
 ---
 
-## 📝 Estudo como Hobby:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="ricardo-godot" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="ricardo-c++" />
-</div>
-
----
-
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ricardoo-azevedo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
