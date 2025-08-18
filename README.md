@@ -45,14 +45,6 @@
 
 ---
 
-
-# 📝 :
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"  height="40"/> 
-</div>
-
----
-
 <div>
   <a href="https://www.instagram.com/ricaardo_azeveedo/" target="_blank">
     <a href="https://linkedin.com/in/ricardo-azevedo-362313350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
