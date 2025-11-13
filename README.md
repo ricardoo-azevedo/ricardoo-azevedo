@@ -43,4 +43,12 @@
           
 </div>
 
+---
+# 📝: 
+<div align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" />     
+</div>
+
 
