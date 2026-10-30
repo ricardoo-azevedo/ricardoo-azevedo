@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ricardoo-azevedo/ricardoo-azevedo/main/assets/bannergit.gif" width="1800" alt="Banner animado">
+<img src="https://raw.githubusercontent.com/ricardoo-azevedo/ricardoo-azevedo/main/assets/gif2banner.gif" width="1800" alt="Banner animado">
 
 </div>
 
