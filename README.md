@@ -1,4 +1,7 @@
-# Olá 👋 Me chamo Ricardo Azevedo!
+
+![Banner animado](https://raw.githubusercontent.com/ricardoo-azevedo/ricardoo-azevedo/main/assets/bannergit.gif)
+
+
 <div align="center">
 
 
