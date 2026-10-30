@@ -1,50 +1,57 @@
 # Olá 👋 Me chamo Ricardo Azevedo!
 
-- 🔭 Sempre explorando várias fronteiras do conhecimento para adquirir uma boa carga de experiência.
-- 🌱 Focando no estudo e no desenvolvimento pessoal.
-- 😄 Pronomes: **Ele/Dele**.
-- 📫 Contate-me no email: [ricardoazevedo1911@gmail.com](mailto:ricardoazevedo1911@gmail.com)
+<div align="center">
 
----
 
-# 💻 :
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"  height="40"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40"/>
-  <img width="20" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="20" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" height="40"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40"/>
-  <img width="20" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
-  <img width="20" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40"/>
-  <img width="20" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40"/>
-  <img width="20" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"height="40" />
-  <img width="20" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=40"/>
-        
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardoo-azevedo&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardoo-azevedo&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardoo-azevedo&theme=tokyonight&utcOffset=-3) |
+| :-: | :-: | :-: |
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardoo-azevedo&theme=tokyonight) | 
+ | :-: |
+
+
+
 </div>
 
----
-# 📝 : 
-<div align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" />    
+<div align="center" style="display: inline_block"><br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Neovim.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+ 
+  
 </div>
 
 
+##
+
+<br>
+
+<div align="center">
+
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ricardoazevedo1911@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ricaardo_azeveedo/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ricardo-f-azevedo/)
+  
+
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ricardoo-azevedo&style=flat-square&color=9400D3" /></p> 
+</div>
+
+<br>
+
+
+ 
