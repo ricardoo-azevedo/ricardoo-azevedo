@@ -1,5 +1,8 @@
+<div align="center">
 
-![Banner animado](https://raw.githubusercontent.com/ricardoo-azevedo/ricardoo-azevedo/main/assets/bannergit.gif)
+<img src="https://raw.githubusercontent.com/ricardoo-azevedo/ricardoo-azevedo/main/assets/bannergit.gif" width="1800" alt="Banner animado">
+
+</div>
 
 
 <div align="center">
